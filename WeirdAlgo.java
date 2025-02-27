@@ -17,5 +17,7 @@ class WeirdAlgo
                 n=(n*3)+1;
             System.out.print(n+" ");
         }
+        
+        sc.close();
     }
 }
