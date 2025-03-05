@@ -1,1 +1,1 @@
-# CSES solutions
+CSES solutions in Java
