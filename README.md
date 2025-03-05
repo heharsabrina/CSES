@@ -1,1 +1,1 @@
-Trying to code consistently
+# CSES solutions
